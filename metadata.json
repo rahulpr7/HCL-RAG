@@ -1,0 +1,5 @@
+{
+  "name": "NoOverfit.AI",
+  "description": "An interactive document analysis tool powered by Gemini. Upload PDFs, images, or text files and ask questions to get instant, context-aware answers.",
+  "requestFramePermissions": []
+}
