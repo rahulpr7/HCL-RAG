@@ -3,7 +3,8 @@ A Retrieval-Augmented Generation (RAG) based assistant that answers user queries
 
 This project demonstrates a deployable, scalable, and modular GenAI pipeline, suitable for real-world applications.
 
-<img width="300" height="900" alt="Streamlit RAG Chat Pipeline-2025-12-19-082856" src="https://github.com/user-attachments/assets/ca94bade-3391-4a0a-af0b-da07643a37ff" />
+<img width="216" height="912" alt="Streamlit RAG Chat Pipeline-2025-12-19-085757" src="https://github.com/user-attachments/assets/f0eb1278-c9df-46a9-8e66-1f8cc371ed93" />
+
 
 How Retrievel works?
 
