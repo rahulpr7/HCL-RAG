@@ -19,7 +19,7 @@ Top-K Paragraphs
 
 🚀 Features
 
-📄 Supports custom document corpus (PDFs / text)
+📄 Supports custom document corpus (PDFs)
 
 🧠 Semantic search using vector embeddings
 
