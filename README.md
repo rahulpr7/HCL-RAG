@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 align="center">🚀 Mini RAG-Powered Assistant</h1>
+  <h1 align="center">🚀 RAG-Powered Assistant</h1>
   <p align="center">
-    A production-ready Retrieval-Augmented Generation (RAG) system for intelligent document-based Question Answering
+    A production-ready Retrieval-Augmented Generation (RAG) system for intelligent document-based(text,tables,images) Question Answering
   </p>
 </p>
 
@@ -34,19 +34,15 @@ to deliver **accurate, grounded, and context-aware responses** with reduced hall
 
 ---
 
-## 🧠 How Retrieval Works
+## 🧠 Retrieval Pipeline
 
-User Query
-↓
-Query Vectorization
-↓
-Intelligent Chunking
-↓
-Content Summarization
-↓
-Semantic Similarity Search (FAISS)
-↓
-Top-K Relevant Context Blocks
+User Query  
+→ Query Vectorization  
+→ Intelligent Chunking  
+→ Content Summarization  
+→ Semantic Similarity Search (FAISS)  
+→ **Top-K Relevant Context Blocks**
+
 
 
 ## ✨ Key Features
