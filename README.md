@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">🚀 RAG-Powered Assistant</h1>
   <p align="center">
-    A production-ready Retrieval-Augmented Generation (RAG) system for Question Answering using document containg text,tables and images
+    A production-ready Retrieval-Augmented Generation (RAG) system for Question Answering using Documents containg text,tables and images
   </p>
 </p>
 
