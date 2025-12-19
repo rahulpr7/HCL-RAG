@@ -1,4 +1,4 @@
-# Mini RAG-Powered Assistant
+# Mini RAG-Powered Assistant for Finance
 A Retrieval-Augmented Generation (RAG) based assistant that answers user queries using a custom document corpus by combining semantic search with Large Language Models (LLMs).
 
 This project demonstrates a deployable, scalable, and modular GenAI pipeline, suitable for real-world applications.
