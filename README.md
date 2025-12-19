@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">🚀 RAG-Powered Assistant</h1>
   <p align="center">
-    A production-ready Retrieval-Augmented Generation (RAG) system for Question Answering using Documents containg text,tables and images
+    A production-ready Retrieval-Augmented Generation (RAG) system for Question Answering using Documents containg Text,Tables and Images
   </p>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-The **Mini RAG-Powered Assistant** is a **Retrieval-Augmented Generation (RAG)** based system that answers user queries using a **custom document corpus**.
+The **RAG-Powered Assistant** is a **Retrieval-Augmented Generation (RAG)** based system that answers user queries using a **custom document corpus**.
 
 It combines:
 - 🔍 **Semantic search**
@@ -98,5 +98,7 @@ User Query
 git clone https://github.com/rahulpr7/HCL-RAG.git
 cd HCL-RAG
 pip install -r requirements.txt
+python -m uvicorn app:app --reload
+
 
 
