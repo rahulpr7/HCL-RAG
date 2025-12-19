@@ -9,6 +9,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![FAISS](https://img.shields.io/badge/VectorDB-FAISS-orange)
 ![LLM](https://img.shields.io/badge/LLM-Gemini%20%7C%20ChatGPT-purple)
+![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Deployment](https://img.shields.io/badge/Deployed-Vercel-black)
 
 ---
