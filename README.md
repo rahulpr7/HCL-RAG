@@ -1,5 +1,53 @@
+<p align="center">
+  <h1 align="center">🚀 Mini RAG-Powered Assistant</h1>
+  <p align="center">
+    A production-ready Retrieval-Augmented Generation (RAG) system for intelligent document-based Question Answering
+  </p>
+</p>
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![FAISS](https://img.shields.io/badge/VectorDB-FAISS-orange)
+![LLM](https://img.shields.io/badge/LLM-Gemini%20%7C%20ChatGPT-purple)
+![Deployment](https://img.shields.io/badge/Deployed-Vercel-black)
 
 ---
+
+## 📌 Overview
+
+The **Mini RAG-Powered Assistant** is a **Retrieval-Augmented Generation (RAG)** based system that answers user queries using a **custom document corpus**.
+
+It combines:
+- 🔍 **Semantic search**
+- 🧠 **Vector embeddings**
+- 🤖 **Large Language Models (LLMs)**
+
+to deliver **accurate, grounded, and context-aware responses** with reduced hallucinations.
+
+---
+
+## 🖥️ Application Preview
+
+> End-to-end RAG pipeline demonstrating document ingestion, semantic retrieval, and grounded LLM responses.
+
+<img width="300" height="900" alt="Streamlit RAG Chat Pipeline" src="https://github.com/user-attachments/assets/ca94bade-3391-4a0a-af0b-da07643a37ff" />
+
+---
+
+## 🧠 How Retrieval Works
+
+User Query
+↓
+Query Vectorization
+↓
+Intelligent Chunking
+↓
+Content Summarization
+↓
+Semantic Similarity Search (FAISS)
+↓
+Top-K Relevant Context Blocks
+
 
 ## ✨ Key Features
 
